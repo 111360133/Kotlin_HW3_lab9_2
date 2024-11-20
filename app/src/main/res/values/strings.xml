@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="error_enter_height">請輸入身高</string>
+    <string name="error_enter_weight">請輸入體重</string>
+    <string name="error_enter_age">請輸入年齡</string>
+    <string name="result_standard_weight">標準體重 \n%s</string>
+    <string name="result_body_fat">體脂肪 \n%s</string>
+    <string name="result_bmi">BMI \n%s</string>
+</resources>
